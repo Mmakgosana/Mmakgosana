@@ -1,16 +1,23 @@
-### Hi there 👋
+**Mmakgosana**
 
-<!--
-**Mmakgosana/Mmakgosana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software-Developer student at Codespace Academy. I am proficient in HTML, CSS and JavaScript. My journey as a self-taught developer has conditioned me to quickly acquire and apply new knowledge.
 
-Here are some ideas to get you started:
+**I am equipped with the following technology**
+Tailwind CSS
+HTML
+CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Personal projects**
+https://grabitgrocery.netlify.app/
+https://mmakgosana.netlify.app/
+https://github.com/Mmakgosana/Gr-12-tutorial-page
+
+**Contacts**
+064 9299 455
+makgakammakgosana@gmail.com/ u16171022@tuks.co.za
+
+
+
+
+
+
